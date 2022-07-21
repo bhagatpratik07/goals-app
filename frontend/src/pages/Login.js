@@ -34,7 +34,7 @@ export default function Login() {
           <div className="form-group">
             <input
               type="email"
-              classname="form-control"
+              className="form-control"
               id="email"
               name="email"
               value={email}
@@ -45,7 +45,7 @@ export default function Login() {
           <div className="form-group">
             <input
               type="password"
-              classname="form-control"
+              className="form-control"
               name="password"
               id="password"
               value={password}
